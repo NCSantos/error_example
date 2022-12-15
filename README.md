@@ -1,4 +1,4 @@
-# error_example
+# symfony_issue_48472
 Update to 6.2 breaks email sending.
 
 https://github.com/symfony/symfony/issues/48472
